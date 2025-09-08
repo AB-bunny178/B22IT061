@@ -36,8 +36,8 @@ Copy code
    }
 
 
-   Response:
-
+ 
+Response :
 {
   "shortUrl": "http://localhost:3000/abc123",
   "expiryMinutes": 30
